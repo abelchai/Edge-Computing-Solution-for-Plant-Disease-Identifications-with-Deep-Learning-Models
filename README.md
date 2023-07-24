@@ -1,0 +1,1 @@
+# Edge-Computing-Solution-for-Plant-Disease-Identifications-with-Deep-Learning-Models
