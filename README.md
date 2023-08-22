@@ -13,4 +13,4 @@ Figure 3 show the leaf sample for Pepper bell_Bacterial spot class.<br />
 ![00f2e69a-1e56-412d-8a79-fdce794a17e4___JR_B Spot 3132](https://github.com/abelchai/Edge-Computing-Solution-for-Plant-Disease-Identifications-with-Deep-Learning-Models/assets/134276385/41f3a0a7-7ed1-4bb8-90e6-285e13c6c251)
 
 The video below show a simple prototype for our project.<br />
-[<img src="" width="50%">](https://https://www.youtube.com/watch?v=HSJ7T6Ap-aM "Edge Computing Solution for Plant Disease Identification with Deep Learning Models")
+[<img src="" width="50%">](https://www.youtube.com/watch?v=HSJ7T6Ap-aM "Edge Computing Solution for Plant Disease Identification with Deep Learning Models")
